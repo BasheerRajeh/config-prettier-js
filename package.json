@@ -1,46 +1,47 @@
 {
-    "name": "config-prettier",
-    "version": "0.0.2",
-    "description": "My personal prettier configuration for my projects",
-    "license": "MIT",
-    "author": "Basheer Rajeh (https://github.com/BasheerRajeh)",
-    "homepage": "https://github.com/BasheerRajeh/config-next",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/BasheerRajeh/config-next.git"
-    },
-    "bugs": {
-        "url": "https://github.com/BasheerRajeh/next-config/issues"
-    },
-    "main": "dist/index.js",
-    "files": [
-        ".gitignore",
-        "index.ts"
-    ],
-    "scripts": {
-        "build": "tsup index.ts --format cjs, esm --dts",
-        "lint": "tsc"
-    },
-    "types": "dist/index.d.ts",
-    "dependencies": {
-        "prettier-plugin-package-perfection": "^1.1.0",
-        "prettier-plugin-prisma": "^5.0.0",
-        "prettier-plugin-sort-json": "^3.1.0",
-        "prettier-plugin-tailwindcss": "^0.5.4"
-    },
-    "peerDependencies": {
-        "prettier": "3.x"
-    },
-    "devDependencies": {
-        "tsup": "^7.2.0",
-        "typescript": "^5.2.2"
-    },
-    "keywords": [
-        "BasheerRajeh",
-        "config-prettier",
-        "prettier"
-    ],
-    "publishConfig": {
-        "access": "public"
-    }
+  "name": "config-prettier",
+  "version": "0.0.2",
+  "description": "My personal prettier configuration for my projects",
+  "license": "MIT",
+  "author": "Basheer Rajeh (https://github.com/BasheerRajeh)",
+  "homepage": "https://github.com/BasheerRajeh/config-next",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasheerRajeh/config-next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BasheerRajeh/next-config/issues"
+  },
+  "main": "dist/index.js",
+  "files": [
+    ".gitignore",
+    "index.ts"
+  ],
+  "scripts": {
+    "build": "tsup index.ts --format cjs, esm --dts",
+    "lint": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "prettier-plugin-package-perfection": "^1.1.0",
+    "prettier-plugin-prisma": "^5.0.0",
+    "prettier-plugin-sort-json": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.4"
+  },
+  "peerDependencies": {
+    "prettier": "3.x"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  },
+  "keywords": [
+    "BasheerRajeh",
+    "config-prettier",
+    "prettier"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
