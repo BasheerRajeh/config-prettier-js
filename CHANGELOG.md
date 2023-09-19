@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.1.0
+
+### Minor Changes
+
+- 6536302: update working flow
+
 ## 0.0.3
 
 ### Patch Changes
