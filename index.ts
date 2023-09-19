@@ -23,4 +23,5 @@ module.exports = {
     "prettier-plugin-tailwindcss",
     "prettier-plugin-package-perfection",
   ],
+  endOfLine: 'auto'
 };

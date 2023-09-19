@@ -1,5 +1,4 @@
-
-## Badges
+# Config-Prettier
 
 <div align="center">
 
@@ -10,10 +9,7 @@
 
 </div>
 
-# Config-Prettier
-
 Config-Prettier is a JavaScript package that provides a set of best practice configurations for Prettier, a code formatter that helps you maintain consistent code style in your projects. This package aims to simplify the setup process for Prettier by providing a predefined configuration and a set of recommended plugins.
-
 
 ## Features
 
