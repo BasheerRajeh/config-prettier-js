@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.1.1
+
+### Patch Changes
+
+- 4bb46f7: Update Readme.md for configuration and instullation
+
 ## 0.1.0
 
 ### Minor Changes
