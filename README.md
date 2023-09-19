@@ -56,14 +56,12 @@ module.exports = {
 This configuration file extends the rules defined in Config-Prettier and allows you to override them if necessary.
 
 ## Plugins
-Config-Prettier depends on several Prettier plugins to enhance its functionality. Make sure to install these plugins to take full advantage of the configuration:
+Config-Prettier depends on several Prettier plugins to enhance its functionality. You do not need to install these plugins separately; they are included with Config-Prettier by default.:
 
 - [prettier-plugin-prisma](https://www.npmjs.com/package/prettier-plugin-prisma)
 - [prettier-plugin-sort-json](https://www.npmjs.com/package/prettier-plugin-sort-json)
 - [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss)
 - [prettier-plugin-package-perfection](https://www.npmjs.com/package/prettier-plugin-package-perfection)
-
-You do not need to install these plugins separately; they are included with Config-Prettier by default.
 
 With Config-Prettier and its bundled plugins in place, your project's code formatting will adhere to best practices and remain consistent throughout development. Happy coding!
 
