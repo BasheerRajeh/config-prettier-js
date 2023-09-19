@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.1.3
+
+### Patch Changes
+
+- 6b0d6f1: remove end of line rule
+
 ## 0.1.2
 
 ### Patch Changes
