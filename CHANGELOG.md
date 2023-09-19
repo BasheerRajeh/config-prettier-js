@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.1.2
+
+### Patch Changes
+
+- 1b3fe24: Update readme file
+
 ## 0.1.1
 
 ### Patch Changes
