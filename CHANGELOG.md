@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.2.0
+
+### Minor Changes
+
+- 93116ef: chore: update minor packages
+
 ## 0.1.3
 
 ### Patch Changes
