@@ -1,5 +1,11 @@
 # config-prettier
 
+## 0.3.0
+
+### Minor Changes
+
+- ba19596: updates libraries
+
 ## 0.2.0
 
 ### Minor Changes
